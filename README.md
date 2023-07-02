@@ -1,5 +1,4 @@
 
-```markdown
 # Hacker Terminal Customization for Termux
 
 This bash script customizes your Termux terminal to have a "hacker terminal" look. It installs and configures Zsh with the Powerlevel10k theme, adds useful aliases, and sets a custom welcome message with ASCII art. Additionally, it configures Neofetch to display system information on startup.
@@ -70,4 +69,3 @@ The Powerlevel10k theme for Zsh is developed by Roman Perepelitsa (romkatv).
 ## License
 
 This script is licensed under the [MIT License](LICENSE).
-```
