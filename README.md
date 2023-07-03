@@ -69,4 +69,3 @@ The Powerlevel10k theme for Zsh is developed by Roman Perepelitsa (romkatv).
 
 This script is licensed under the [MIT License](LICENSE).
 
-The Powerlevel10k theme for Zsh is developed by Roman Perepelitsa (romkatv).
